@@ -4,6 +4,8 @@
 ## Desafio
 Você trabalha em uma empresa de venda de serviços de alto valor agregado e seus clientes tem um prazo de pagamento de 30 dias para pagar.
 
+Você trabalha em uma empresa de venda de serviços de alto valor agregado e seus clientes tem um prazo de pagamento de 30 dias para pagar.
+
 Acontece que, como em quase toda empresa, nem sempre os clientes pagam o valor na data acordada ou nem sempre pagam o valor por completo. Esses clientes são considerados inadimplentes.
 
 A equipe do setor financeiro faz um controle com o valor devido de cada cliente.
